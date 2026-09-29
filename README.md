@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# Henrik Oldehed
+
+Mathematician turned developer focused on data engineering and backend development.
+
+Currently studying Programmer AI at Lexicon and looking for an APL placement in data engineering or backend development in Skåne.
+
+**Technologies:** Python · SQL · C# · ASP.NET Core · Airflow · dbt · PostgreSQL · Docker · GitHub Actions
+
+[LinkedIn](https://linkedin.com/in/henrikoldehed)
 <!--
 **nat15hol/nat15hol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
