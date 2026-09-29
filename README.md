@@ -1,17 +1,7 @@
 
-
-<p align="center">
+### Background
   <b>Data Engineer & Backend Developer</b> · Mathematician by training<br/>
   I build data pipelines and APIs that catch bad data early and stay easy to trust.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</p>
-
----
 
 At **Region Skåne** I worked on reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability.
 
@@ -41,8 +31,13 @@ At **Region Skåne** I worked on reproducible ETL, data validation and backend l
 
 The pinned repositories below show how this looks in practice: an Airflow + dbt pipeline on public transit data and a data-quality-first platform in C#/.NET.
 
----
+
+### Connect with me
+
+  Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
 
 <p align="center">
-  Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
+  <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </p>
