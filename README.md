@@ -27,7 +27,7 @@ At **Region Skåne** I worked on reproducible ETL, data validation and backend l
 The pinned repositories below show how this looks in practice: an Airflow + dbt pipeline on public transit data and a data-quality-first platform in C#/.NET.
 
 
-### Connect with me
+### Connect
 
   Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
 
