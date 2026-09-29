@@ -6,7 +6,7 @@ At **Region Skåne** I worked on reproducible ETL, data validation and backend l
 - **Reproducible and testable.** Pipelines are designed to be repeatable, with tests and CI where they matter.
 - **Traceable.** Runs are logged, data can be traced through the pipeline, and architectural decisions are documented.
 
-### Main tools
+### Selected tools
 
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2b3137?style=flat-square)
