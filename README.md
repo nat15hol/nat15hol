@@ -19,7 +19,7 @@ At **Region Skåne** I worked on reproducible ETL, data validation and backend l
 ![Docker](https://img.shields.io/badge/Docker-2b3137?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2b3137?style=flat-square)
 
-### Currently
+### Recently
 
 - Going deeper on data modelling, pipeline testing and CI/CD
 - Exploring RAG with FAISS
