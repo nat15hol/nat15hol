@@ -13,7 +13,7 @@
 
 ---
 
-I have hands-on experience from **Region Skåne**, building reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability.
+At **Region Skåne** I worked on reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability.
 
 ### 🧭 How I work
 
@@ -44,5 +44,5 @@ The pinned repositories below show how this looks in practice: an Airflow + dbt 
 ---
 
 <p align="center">
-  Looking for my next role in <b>data engineering or backend development</b>, in Skåne or remote.
+  Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
 </p>
