@@ -1,5 +1,3 @@
-
-### Background
   <b>Data Engineer & Backend Developer</b> · Mathematician by training<br/>
   I build data pipelines and APIs that catch bad data early and stay easy to trust.
 
