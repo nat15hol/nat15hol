@@ -30,9 +30,3 @@ The pinned repositories below show how this looks in practice: an Airflow + dbt 
 ### Connect
 
   Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</p>
