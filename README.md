@@ -1,7 +1,3 @@
-## Hi there 👋
-
-# Henrik Oldehed
-
 Mathematician turned developer focused on data engineering and backend development.
 
 Currently studying Programmer AI at Lexicon and looking for an APL placement in data engineering or backend development in Skåne.
