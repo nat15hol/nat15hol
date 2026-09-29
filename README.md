@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrikoldehed">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <span>henrik.oldehed@gmail.com</span>
+  <a href="https://www.linkedin.com/in/henrikoldehed">
+    <img src="https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
 ---
