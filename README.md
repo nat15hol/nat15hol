@@ -6,8 +6,10 @@
 </p>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrikoldehed)
-  <img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b3137?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrikoldehed)
+<img src="https://img.shields.io/badge/Email-henrik.oldehed%40gmail.com-2b3137?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+
 </p>
 
 ---
