@@ -1,7 +1,4 @@
-  <b>Data Engineer & Backend Developer</b> · Mathematician by training<br/>
-  I build data pipelines and APIs that catch bad data early and stay easy to trust.
-
-At **Region Skåne** I worked on reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability.
+At **Region Skåne** I worked on reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability. I build data pipelines and APIs that catch bad data early and stay easy to trust.
 
 ### How I work
 
