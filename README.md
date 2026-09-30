@@ -1,32 +1,7 @@
-At **Region Skåne** I worked on reproducible ETL, data validation and backend logic for a registry platform handling sensitive data. What interests me most is what happens *before* the dashboard: quality, testing and traceability. I build data pipelines and APIs that catch bad data early and stay easy to trust.
+I'm Henrik, a data engineer and backend developer with a background in mathematics.
 
-### How I work
+I mostly work on what happens before the dashboard: validating data early, keeping pipelines reproducible and making runs traceable. Most projects here use Python, SQL, Airflow, dbt and C#/.NET.
 
-- **Validate at the gate.** Schema, types, ranges and duplicates are checked before data moves downstream.
-- **Reproducible and testable.** Pipelines are designed to be repeatable, with tests and CI where they matter.
-- **Traceable.** Runs are logged, data can be traced through the pipeline, and architectural decisions are documented.
+During an internship at Region Skåne, I worked on ETL, validation and backend logic for a registry platform handling sensitive data.
 
-### Selected tools
-
-![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL_Server-2b3137?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-2b3137?style=flat-square)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2b3137?style=flat-square)
-<br/>
-![Airflow](https://img.shields.io/badge/Airflow-2b3137?style=flat-square)
-![dbt](https://img.shields.io/badge/dbt-2b3137?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2b3137?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2b3137?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2b3137?style=flat-square)
-
-### Recently
-
-- Going deeper on data modelling, pipeline testing and CI/CD
-- Exploring RAG with FAISS
-
-The pinned repositories below show how this looks in practice: an Airflow + dbt pipeline on public transit data and a data-quality-first platform in C#/.NET.
-
-
-### Connect
-
-  Always up for a conversation about <b>data quality, pipelines and backend design</b>. Reach me on LinkedIn or by email.
+More projects in [all repositories](https://github.com/nat15hol?tab=repositories).
